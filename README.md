@@ -1,6 +1,6 @@
 # HeartFailureML
-S3688144 Angelo Parlade
-S3737937 Huiyu Wang
+Angelo Parlade
+Huiyu Wang
 
 open file "Assignment2.ipynb" in jupyter notebook
 rerun the whole notebook
